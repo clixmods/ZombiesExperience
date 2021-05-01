@@ -1,1 +1,27 @@
-"Welcome to 2.5 version of Zombies Experience mod."
+"Welcome to 2.5 version of Zombies Experience mod. 
+\n The new update include : - Github connection and local files save: the mod can get or create some files to update directly some features of the mod, like the map list, message of the day and more in the future. 
+This new optional feature need the approbation of the user. 
+\n Grief update : - CDC and CIA are replaced by SOE Characters to give a better compatibility"
+                  - Revive icon have now a proper icon for each team
+                  - 2 vs 2 vs 2 vs 2 is now available
+                  - A bug when the starting round respawn always a spectator player is fix
+                  - Restart round is now fixed
+   Gamemode update : - Starting round modify now correctly zombie speed
+                     - When a dog round happen with more than 4 players, the round will be adapted to be more shorter than before     
+                     - No error ui when you spectate a ennemy player
+   Bots update : - Health setup to 2000 than 10000 before
+                 - Follow you when you touch a trigger (teleporter, door) or when you need to be revived 
+                 - When he buy a weapon, he determine the damage amount to check which weapon is better
+   IO feature : - All features with save data and github connection need your aprobation
+                - Map list updated directly from a server (no mod update required)
+   Map list enhancement : - All compatible map have a button to be downloaded 
+                          - You can see the creator of compatible map
+          
+Planned feature : 
+   Grief update : 
+   Gamemode update : 
+   Bots update : 
+   IO feature : - Credits list to see every contributor of the project
+                - Supporters list 
+   Map list enhancement : - Upcoming map list
+  
