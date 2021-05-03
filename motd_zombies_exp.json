@@ -12,16 +12,38 @@ This new optional feature need the approbation of the user.
    Bots update : - Health setup to 2000 than 10000 before
                  - Follow you when you touch a trigger (teleporter, door) or when you need to be revived 
                  - When he buy a weapon, he determine the damage amount to check which weapon is better
-   IO feature : - All features with save data and github connection need your aprobation
+   IO feature : - All features with save data and github connection need your approbation
                 - Map list updated directly from a server (no mod update required)
    Map list enhancement : - All compatible map have a button to be downloaded 
                           - You can see the creator of compatible map
           
 Planned feature : 
+   
    Grief update : 
    Gamemode update : 
    Bots update : 
    IO feature : - Credits list to see every contributor of the project
                 - Supporters list 
+                - Message of the day
    Map list enhancement : - Upcoming map list ,pog
   
+Future feature :
+   IO feature :   - Progression system for 3 Zombies Experience : Classic, Black Ops 3 , Black Ops 4
+                  - Attachments system
+                  - Achievment system 
+                  
+   Zombies Experience Classic :  - 2 Weapons pack from Black Ops 1 and Black Ops 2
+                                 - Each weapon have their related attachments.
+                                 - HUD From Black Ops 1 and 2
+
+   Zombies Experience Black Ops 3 :    - Black Ops 3 weapons
+                                       - Each weapon have their related attachments.
+                                       
+   Zombies Experience Black Ops 4 :    - Black Ops 4 weapons
+                                       - Each weapon have their related attachments.  
+                                       - Gameplay have been remade to be close with Black Ops 4 Zombies
+                                       - HUD   
+   
+   Customize your hud : - Different HUD from different Black Ops Zombies, compatible with all Zombies Exp.
+
+                        
