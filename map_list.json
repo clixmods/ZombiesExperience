@@ -16,6 +16,22 @@
           "sharpshooter"
         ],
         "v": 0
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Xela"
+        ],
+        "_id": "6068726452cfdf2fec3cc17c",
+        "created_date": "2021-04-03T13:49:24.667Z",
+        "level_id": "1624257987",
+        "name": "TOWN REIMAGINED",
+        "description": "Relive the unsettling experience of Town set years after the events of TranZit.",
+        "gamemode": [
+          "survival",
+          "grief"
+        ],
+        "v": 0
       },{
         "disabled": false,
         "authors": [
