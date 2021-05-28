@@ -1,43 +1,22 @@
 {
     "data": [
       {
-        "disabled": false,
         "authors": [
-          "Madgaz"
+          "eMoX MaNgA"
         ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1688246509",
-        "name": "OPERATION LOUCHER",
-        "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ],
-        "v": 0
+        "web": "",
+        "name": "MORI: REBIRTH",
+        "description": "RELEASE DATE: 2021"
       },
       {
-        "disabled": false,
         "authors": [
-          "IZaRTaX",
-          "HitmanWere",
-          "Ardivee",
-          "ElTitoPricus",
-          "ZeRoY"
+          "Logical Edits"
         ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "880337570",
-        "name": "EXTINCT: THE LAST COMPOUND",
-        "description": "",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "v": 0
+        "web": "",
+        "name": "TUVONG",
+        "description": "RELEASE DATE: 2021"
       }
+     
     ]
   }
   
