@@ -1,7 +1,7 @@
 "Welcome to 2.5 version of Zombies Experience mod. 
 \n The new update include : - Github connection and local files save: the mod can get or create some files to update directly some features of the mod, like the map list, message of the day and more in the future. 
 This new optional feature need the approbation of the user. 
-\n Grief update : - CDC and CIA are replaced by SOE Characters to give a better compatibility"
+\n Grief update : - CDC and CIA are replaced by SOE Characters to give a better compatibility
                   - Revive icon have now a proper icon for each team
                   - 2 vs 2 vs 2 vs 2 is now available
                   - A bug when the starting round respawn always a spectator player is fix
@@ -49,4 +49,4 @@ Future feature :
    
    Customize your hud : - Different HUD from different Black Ops Zombies, compatible with all Zombies Exp.
 
-                        
+   "
