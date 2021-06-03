@@ -54,6 +54,74 @@
           "grief"
         ],
         "v": 0
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "MCDC101"
+        ],
+        "_id": "6068726452cfdf2fec3cc17c",
+        "created_date": "2021-04-03T13:49:24.667Z",
+        "level_id": "1192258761",
+        "name": "OVERLOOK",
+        "description": "Remake of the map Overlook from Black Ops DS Zombies.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "MCDC101"
+        ],
+        "_id": "6068726452cfdf2fec3cc17c",
+        "created_date": "2021-04-03T13:49:24.667Z",
+        "level_id": "840594001",
+        "name": "HOUSE",
+        "description": "Remake of the map House from Black Ops DS Zombies.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "MCDC101"
+        ],
+        "_id": "6068726452cfdf2fec3cc17c",
+        "created_date": "2021-04-03T13:49:24.667Z",
+        "level_id": "847878420",
+        "name": "FACILITY",
+        "description": "Remake of the map Facility from Black Ops DS Zombies.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "MCDC101"
+        ],
+        "_id": "6068726452cfdf2fec3cc17c",
+        "created_date": "2021-04-03T13:49:24.667Z",
+        "level_id": "871858012",
+        "name": "TEMPLE",
+        "description": "Remake of the map Temple from Black Ops DS Zombies.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
       }
     ]
   }
