@@ -1,234 +1,197 @@
 {
-    "data": [
-      {
-        "disabled": false,
-        "authors": [
-          "VerK0"
-        ],
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1857636746",
-        "name": "POOP OF THE DEAD",
-        "description": "Inside Madgaz's dream house, the toilet, you must survive.",
-        "gamemode": [
-          "survival"
-        ],
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "ItsRllyyTwitchyy"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2403573540",
-        "name": "FACILITY",
-        "description": "Set about 4 years after the events of Shipment, the zombie outbreak has plaugued the world. A team of soldiers were sent in to A-12's original starting point to find out where they've been for all this time.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Clix"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1406022761",
-        "name": "FARM",
-        "description": "Survive in the Farm with limited wall weapons, perks, and the Mystery Box.",
-        "gamemode": [
-          "survival",
-          "grief"
-        ],
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "TZ Ghosts",
-          "Ducky",
-          "Eric Maynard",
-          "Lucas",
-          "Uh, Hamburger"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2271346839",
-        "name": "DER RIESE: DECLASSIFIED",
-        "description": "The Giant has risen. Face the might of the Nazi Zombies one last time, in their heartland. This is where it all began. This is where his master plan took shape. Is this where it all ends? Return to Der Riese for the final time to discover the secrets still left to uncover.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Madgaz"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1688246509",
-        "name": "OPERATION LOUCHER",
-        "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
-        "gamemode": [
-          "survival",
-          "grief"
-        ],
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Madgaz"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2265678416",
-        "name": "OPERATION HARBOURAGE",
-        "description": "After the Loucher facility fell, Group 935 infiltrated the smaller of Division 9's island facility to manipulate and take claim of their creations. Will our four Plucky heroes survive another adventure at the helm of Group 935 , or will they be trapped forever in this Nightmare",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "IZaRTaX",
-          "HitmanWere",
-          "Ardivee",
-          "ElTitoPricus",
-          "ZeRoY"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "880337570",
-        "name": "EXTINCT: THE LAST COMPOUND",
-        "description": "",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Zombie115201"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2100066846",
-        "gamemode": [
-          "survival",
-          "gungame"
-        ],
-        "name": "FREQUENCY",
-        "description": "A Broken Arrow Facility containing a number station that transmits cryptic messages to all fellow facilities, agents and spies. Primis arrives to uncover the final message’s meaning and the untold story of this lost site.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Marksman147"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "914295605",
-        "name": "BLACKWOODS",
-        "description": "",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Seth Norris"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1617497358",
-        "name": "DAS HERRENHAUS",
-        "description": "In the last days of WW2 all communication with a strange Group 935 facility is lost. Reports speak of a boarding school ruled by a nazi officer, and identified member of the group 935, the doctor Hermann Schuster. With the war finished, the strange place was closed and abandoned. Nothing was heard of the students, professors, or even the doctor Schuster himself. A week later, somehow, some friendly faces landed inside the cursed building... The locals still remember that day, those screams, those lights...",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "AlfaTheseus"
-        ],
-        "credits": [
-          "xSanchez78"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2156051699",
-        "name": "1938: Full Circle",
-        "description": "An old Victorian Village and the Starting Point in the story-line",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "AlfaTheseus"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1967450594",
-        "name": "THE DAMNED OF THE MOOR II",
-        "description": "Frozen Prison with an alternate take on events occurring immediately after the previous.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "AlfaTheseus"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1628017871",
-        "name": "THE LAST UNITY",
-        "description": "Old Town divided by a large river, and the Ending to the story-line from a Certain Point of View.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "AlfaTheseus"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "2262889041",
-        "name": "THE DAMNED OF THE MOOR",
-        "description": "A former Napoleonic War Prison, with a mysterious influence on the outbreak.",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "BADSNIPER96"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "844720012",
-        "name": "RETRIBUTION",
-        "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "BADSNIPER96"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "844720012",
-        "name": "test",
-        "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "eMoX MaNgA"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "0",
-        "name": "MORI: REBIRTH",
-        "description": "We dont know",
-        "v": 0
-      }
-    ]
-  }
-  
+  "data": [
+    {
+      "disabled": false,
+      "authors": [
+        "Madgaz"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "1688246509",
+      "name": "OPERATION LOUCHER",
+      "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ],
+      "v": 0
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Xela"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "2404652864",
+      "name": "GULAG ZOMBIES",
+      "description": "Slaughter the undead in the brand new Gulag Zombies.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ],
+      "v": 0
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "IZaRTaX",
+        "HitmanWere",
+        "Ardivee",
+        "ElTitoPricus",
+        "ZeRoY"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "880337570",
+      "name": "EXTINCT: THE LAST COMPOUND",
+      "description": "",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "v": 0
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "1192258761",
+      "name": "OVERLOOK",
+      "description": "Remake of the map Overlook from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "840594001",
+      "name": "HOUSE",
+      "description": "Remake of the map House from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "847878420",
+      "name": "FACILITY",
+      "description": "Remake of the map Facility from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "871858012",
+      "name": "TEMPLE",
+      "description": "Remake of the map Temple from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_prototype",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_asylum",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_sumpf",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_theater",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "v",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_temple",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_tomb",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    }
+  ]
+}
