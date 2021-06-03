@@ -122,6 +122,76 @@
           "grief"
         ],
         "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_prototype",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_asylum",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_sumpf",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_theater",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "v",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_temple",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_tomb",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
       }
     ]
   }
