@@ -54,6 +54,16 @@
           "sharpshooter"
         ],
         "v": 0
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_theater",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
       }
     ]
   }
