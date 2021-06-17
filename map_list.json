@@ -3,6 +3,21 @@
       {
         "disabled": false,
         "authors": [
+          "ZeRoY",
+          "YaTuChavez",
+          "Madgazgaming"
+        ],
+        "level_id": "910286104",
+        "name": "THE OCHILON",
+        "description": "Our four heroes once again find themselves trapped in a new nightmare, with fabrik behind them, what new horrors await in this school of the damned...",
+        "gamemode": [
+          "survival",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "h00dedsn1per177"
         ],
         "level_id": "2252854766",
