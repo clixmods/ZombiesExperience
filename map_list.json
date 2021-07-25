@@ -15,15 +15,71 @@
         ]
       },
       {
+        "disabled": true,
+        "authors": [
+          "booris"
+        ],
+        "level_id": "2336465541",
+        "name": "STILLE NACHT",
+        "description": "December, 1944. In the chilly forests near a West Berlin town, not all is calm and not all is bright.",
+        "gamemode": [
+          "survival",
+          "grief"
+        ]
+      },
+      {
         "disabled": false,
         "authors": [
-          "ZeRoY",
-          "YaTuChavez",
-          "Madgazgaming"
+          "Xela"
         ],
-        "level_id": "910286104",
-        "name": "THE OCHILON",
-        "description": "Our four heroes once again find themselves trapped in a new nightmare, with fabrik behind them, what new horrors await in this school of the damned...",
+        "level_id": "1866140702",
+        "name": "RETURN TO BUS DEPOT",
+        "description": "Return to the unnerving experience that is Bus Depot and uncover the secrets that lie within.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Zombie115201"
+        ],
+        "level_id": "2279537248",
+        "name": "DINER",
+        "description": "Survive in the North Highway Diner with classic perks, wall weapons and the Pack-a-Punch",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Xela"
+        ],
+        "level_id": "1624257987",
+        "name": "TOWN REIMAGINED",
+        "description": "Relive the unsettling experience of Town set years after the events of Tranzit.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Zombie115201"
+        ],
+        "level_id": "2100066846",
+        "name": "FREQUENCY",
+        "description": "Here at Broken Arrow, it is our Mission to Prepare for Humanity's Future and Open New Worlds...",
         "gamemode": [
           "survival",
           "grief"
