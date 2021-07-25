@@ -3,6 +3,20 @@
       {
         "disabled": false,
         "authors": [
+          "rami"
+        ],
+        "level_id": "2327925954",
+        "name": "CHRISTMAS RUST",
+        "description": "Dark and snowy holiday themed Rust. Beware of Santa.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "ZeRoY",
           "YaTuChavez",
           "Madgazgaming"
