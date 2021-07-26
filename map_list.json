@@ -3,6 +3,20 @@
       {
         "disabled": false,
         "authors": [
+          "DanWj"
+        ],
+        "level_id": "2553596961",
+        "name": "MOB OF THE DEAD: CELLBLOCK",
+        "description": "Cell Block is a location in Alcatraz Island.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "rami"
         ],
         "level_id": "2327925954",
