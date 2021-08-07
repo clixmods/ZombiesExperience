@@ -3,6 +3,21 @@
       {
         "disabled": false,
         "authors": [
+          "Hybs",
+          "raptroes"
+        ],
+        "level_id": "2567633314",
+        "name": "BIODOME",
+        "description": "Biodome is a location on Moon.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "DanWj"
         ],
         "level_id": "2553596961",
