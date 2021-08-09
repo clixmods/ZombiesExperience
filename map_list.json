@@ -14,7 +14,8 @@
           "survival",
           "sharpshooter",
           "grief"
-        ]
+        ],
+        "isOfficial": "true"
       },
       {
         "disabled": false,
