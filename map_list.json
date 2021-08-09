@@ -3,6 +3,21 @@
       {
         "disabled": false,
         "authors": [
+          "ZeRoY",
+          "Ardivee",
+          "MakeCents"
+        ],
+        "level_id": "879782355",
+        "name": "KYASSURU",
+        "description": "Some time after leaving Der Eisendrache, Richtofen in his quest for harnessing the power of the realm lands the trio and himself on the ground of Kyassuru, an old Japanese Castle which was the theater of a great battle. They expect to find here Ultimis Takeo ...",
+        "gamemode": [
+          "survival",
+          "sharpshooter"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Clix"
         ],
         "level_id": "1406022761",
