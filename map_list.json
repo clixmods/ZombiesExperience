@@ -3,6 +3,22 @@
       {
         "disabled": false,
         "authors": [
+          "Slayin",
+          "raptroes",
+          "NoobforLunch"
+        ],
+        "level_id": "1680193042",
+        "name": "TOWN",
+        "description": "Survive in the town with limited wall weapons, perks, Pack-a-Punch and the Mystery Box.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Hybs",
           "raptroes"
         ],
