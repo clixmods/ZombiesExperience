@@ -3,6 +3,21 @@
       {
         "disabled": false,
         "authors": [
+          "Clix"
+        ],
+        "level_id": "1406022761",
+        "name": "FARM",
+        "description": "Survive in the Farm with limited wall weapons, perks, and the Mystery Box.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Slayin",
           "raptroes",
           "NoobforLunch"
