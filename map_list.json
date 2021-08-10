@@ -3,6 +3,48 @@
       {
         "disabled": false,
         "authors": [
+          "jay"
+        ],
+        "level_id": "1171712833",
+        "name": "PORTSIDE",
+        "description": "Shortly after Elevation, the crew find themselves in an abandoned portside town. A cargo ship full of 115 is contaminating the city and infecting everybody in it. It is your job to destroy that ship and restore peace to the city.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "logical"
+        ],
+        "level_id": "1949841259",
+        "name": "ENDALEN",
+        "description": "A small clearing in a forest in Norway. Can you survive long enough to find and cook the delicious s'mores?",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Marksman147"
+        ],
+        "level_id": "914295605",
+        "name": "BLACKWOODS",
+        "description": "",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "ZeRoY",
           "Ardivee",
           "MakeCents"
