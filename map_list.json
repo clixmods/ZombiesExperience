@@ -3,6 +3,20 @@
       {
         "disabled": false,
         "authors": [
+          "Javix473"
+        ],
+        "level_id": "1786476460",
+        "name": "NACHT DER AGONIE",
+        "description": "14th of may 1945, the group 935 is trying to scape from allies and in a last chance of preserving their secret weaponry and experiments they stablished a base near the Franco-Spanish border to supply all the resources to Spain before it falls to unwanted hands...",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "jay"
         ],
         "level_id": "1171712833",
@@ -190,6 +204,8 @@
           "grief"
         ],
         "isOfficial": "true"
+        ,
+        "complete": false
       },
       {
         "disabled": false,
@@ -216,7 +232,8 @@
           "survival",
           "sharpshooter",
           "grief"
-        ]
+        ],
+        "complete": false
       },
       {
         "disabled": false,
@@ -331,7 +348,7 @@
           "grief",
           "sharpshooter"
         ],
-        "v": 0
+        "complete": false
       },
       {
         "treyarch": "true",
