@@ -3,6 +3,35 @@
       {
         "disabled": false,
         "authors": [
+          "robit",
+          "raptroes"
+        ],
+        "level_id": "2272246143",
+        "name": "DAYBREAK",
+        "description": "Our heroes return to Diner in search of an ancient relic, but nothing is quite how they remember.",
+        "gamemode": [
+          "survival",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Filly"
+        ],
+        "level_id": "2574100565",
+        "name": "LONDON DOCKS",
+        "description": "After a truck carrying an unknown gas was struck by a vehicle and exploded at an abandoned dockyard just outside London, the nearby residents fleeing the scene began to succumb to its fatal effects. Along with the gas explosion also came the discovery of a dark and dangerous undead army laying beneath their beloved home. S.A.S Detachment Bravo's Hazmat team has been sent in to clean up any remaining threats and recover samples for further testing...",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Javix473"
         ],
         "level_id": "1786476460",
