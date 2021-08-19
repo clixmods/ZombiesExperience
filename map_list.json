@@ -3,6 +3,106 @@
       {
         "disabled": false,
         "authors": [
+          "brdg95"
+        ],
+        "level_id": "1829975208",
+        "name": "MAYBURY SURVIVAL",
+        "description": "Judgement Day has arrived, and the small neighborhood of Maybury is prepared. Fight for survival against the horde from the perspective of four of Maybury's locals in a residents backyard.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "brdg95"
+        ],
+        "level_id": "1491611559",
+        "name": "CONSTRUCTION NIGHT",
+        "description": "Four workers are trapped in a hellish nightmare surrounding a Construction site disturbing an old burial ground.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Deadshot.mp4"
+        ],
+        "level_id": "2228367176",
+        "name": "THE WINCHESTER",
+        "description": "Shaun of the Dead comes to zombies with this fanmade version of the iconic bar, the Winchester!",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Deadshot.mp4"
+        ],
+        "level_id": "2299337140",
+        "name": "THE DARK DESCENT",
+        "description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. You must escape.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "HUMANS",
+          "k7Ysh5A",
+          "GEEKiDoS"
+        ],
+        "level_id": "1109543627",
+        "name": "TRANSPORT SHIP",
+        "description": "Fight with Zombies on Transport ship from Crossfire!",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "brdg95"
+        ],
+        "level_id": "1491611559",
+        "name": "CONSTRUCTION NIGHT",
+        "description": "Four workers are trapped in a hellish nightmare surrounding a Construction site disturbing an old burial ground.",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Ben-Verder-Niks"
+        ],
+        "level_id": "2194080791",
+        "name": "MW:DOCKS",
+        "description": "The undead have risen in Modern Warfare's Docks.",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "robit",
           "raptroes"
         ],
