@@ -3,6 +3,60 @@
       {
         "disabled": false,
         "authors": [
+          "My_ZipLock_Lover"
+        ],
+        "level_id": "2387245580",
+        "name": "HASHIKE",
+        "description": "In a world where a barge holds the deadliest secret imaginable, Spilling corpses and bodies into the depths below. The dead rise and begin an all out assault against a heavily fortified bunker. Set in a moist hellscape carved from long fought battles, Can you survive the undead trash? Or will you suffer to sink below the surface and meet your watery ends?",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "treyarch": "true",
+        "level_id": "zm_asylum",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Madgaz",
+          "Planet"
+        ],
+        "level_id": "1807713320",
+        "name": "ATONEMENT",
+        "description": "Our 4 heroes find themselves trapped in an old English mining town, what secrets have Group 935 been hiding here will this be their Atonement...",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "complete": "false"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "Scobalula"
+        ],
+        "level_id": "1891700770",
+        "name": "ZOMBIE GARAGE 2",
+        "description": "As the recent outbreak sweeps through the United States, killing all those around you, you and your team take shelter in a nearby Garge, but things aren't what they seem.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "brdg95"
         ],
         "level_id": "1829975208",
