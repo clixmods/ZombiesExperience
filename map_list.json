@@ -3,6 +3,20 @@
       {
         "disabled": false,
         "authors": [
+          "Psh"
+        ],
+        "level_id": "2042494024",
+        "name": "VALLEY",
+        "description": "Somewhere near the Essex heavy industrial plant...",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "My_ZipLock_Lover"
         ],
         "level_id": "2387245580",
