@@ -3,6 +3,34 @@
       {
         "disabled": false,
         "authors": [
+          "logical"
+        ],
+        "level_id": "2581784013",
+        "name": "ATROX",
+        "description": "An insane asylum abandoned years ago due to the horrors that took place in this facility.",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+        {
+        "disabled": false,
+        "authors": [
+          "logical"
+        ],
+        "level_id": "2575436141",
+        "name": "FLAKK",
+        "description": "WW1 Trench warfare in between two bunkers. How long can you survive for?",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Psh"
         ],
         "level_id": "2042494024",
