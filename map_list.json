@@ -3,6 +3,20 @@
       {
         "disabled": false,
         "authors": [
+          "Seth Norris"
+        ],
+        "level_id": "1617497358",
+        "name": "DAS HERRENHAUS",
+        "description": "In the last days of WW2 all communication with a strange Group 935 facility is lost. Reports speak of a boarding school ruled by a nazi officer, and identified member of the group 935, the doctor Hermann Schuster. With the war finished, the strange place was closed and abandoned. Nothing was heard of the students, professors, or even the doctor Schuster himself. A week later, somehow, some friendly faces landed inside the cursed building... The locals still remember that day, those screams, those lights...",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "logical"
         ],
         "level_id": "2581784013",
