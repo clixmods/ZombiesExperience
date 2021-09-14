@@ -3,6 +3,59 @@
       {
         "disabled": false,
         "authors": [
+          "logical"
+        ],
+        "level_id": "2598721994",
+        "name": "FELON",
+        "description": "Can you escape this prison haunted by the Warden and his disciples?",
+        "gamemode": [
+          "survival",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "BADSNIPER96"
+        ],
+        "level_id": "844720012",
+        "name": "RETRIBUTION",
+        "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "logical"
+        ],
+        "level_id": "2585913323",
+        "name": "MARSH",
+        "description": "A desolate and wet swamp. Small homes are littered across the marsh. Find some gear and survive!",
+        "gamemode": [
+          "survival",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "logical"
+        ],
+        "level_id": "2370179373",
+        "name": "KOWLOON",
+        "description": "Four of the world's best operatives link back up in a familiar place to learn the true origins of the Nova-6 Chemical and its true potential, but nothing is always as it seems.",
+        "gamemode": [
+          "survival",
+          "grief"
+        ]
+      },
+      {
+        "disabled": false,
+        "authors": [
           "Seth Norris"
         ],
         "level_id": "1617497358",
