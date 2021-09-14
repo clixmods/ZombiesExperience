@@ -52,6 +52,8 @@
           "survival",
           "grief"
         ]
+        ,
+        "complete": "false"
       },
       {
         "disabled": false,
