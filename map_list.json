@@ -3,6 +3,39 @@
       {
         "disabled": false,
         "authors": [
+          "PSH",
+          "Abnormal2020",
+          "Scobalula",
+          "raptroes"
+        ],
+        "level_id": "1363534306",
+        "name": "CATACLYSM",
+        "description": "The Essex heavy industrial plant was conceived at the height of World War II. During which time it produced all means of weapons, from bullets to tanks. It's location next to the ocean made it critical to the supply and delivery of Allied armor. Not long after, the factory became abandoned for several decades. In the early 21th Century, the factory was repurposed as an all purpose shipping yard, but only after a few years was bought back by the Government and once again used as a hub to produce and ship weapons. The last report from Essex indicated a shipment might have exploded while at the compound. Communications with Essex have ceased after this Cataclysm.",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ],
+        "isOfficial": "true",
+        "complete": "false"
+      },
+      {
+        "disabled": false,
+        "authors": [
+          "gcpeinhardt"
+        ],
+        "level_id": "2064332663",
+        "name": "DER RIESE",
+        "description": "The Giant is rising. Face the might of the Nazi Zombies in their heartland. This is where it all began. This is where the master plan took shape. Is this where it all ends?",
+        "gamemode": [
+          "survival",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
+        "disabled": false,
+        "authors": [
           "logical"
         ],
         "level_id": "2598721994",
