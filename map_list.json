@@ -1,6 +1,16 @@
 {
     "data": [
       {
+        "treyarch": "true",
+        "level_id": "zm_factory",
+        "gamemode": [
+          "survival",
+          "sharpshooter",
+          "grief"
+        ],
+        "isOfficial": "true"
+      },
+      {
         "disabled": false,
         "authors": [
           "PSH",
