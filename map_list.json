@@ -3,6 +3,50 @@
     {
       "disabled": false,
       "authors": [
+        "dadakhr"
+      ],
+      "level_id": "1695245752",
+      "name": "SHISHA NO TEIKOU",
+      "description": "September 15, 1944, White Beach, Peleliu Island, Palau, South Pacific Mandate, Japans",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "ZeRoY",
+        "ElTitoPricus",
+        "Madgaz"
+      ],
+      "level_id": "823442228",
+      "name": "BUNKER 10",
+      "description": "Trapped inside the walls of an ever changing experimental bunker, will you escape the madness??",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Cornrow Wallace"
+      ],
+      "level_id": "877119883",
+      "name": "MEADOW",
+      "description": "Meadow is the first of a 4 part series surrounding a UFO crash and the chain of events that lead to a war between earth and its invaders.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "Logical",
         "Symbo"
       ],
@@ -11,7 +55,8 @@
       "description": "An other-world being inhabits this forsaken forest... his name... Thanatos. Can our heroes survive Thanatos' wrath and put an end to his demise, or will they succumb to the evils from within his thousand-year soul...",
       "gamemode": [
         "survival",
-        "grief"
+        "grief",
+        "sharpshooter"
       ]
     },
     {
