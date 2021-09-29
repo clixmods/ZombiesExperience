@@ -1,5 +1,33 @@
 {
     "data": [
+        {
+        "disabled": false,
+        "authors": [
+          "Ray",
+          "lilrifa",
+          "Kid Amogus"
+        ],
+        "level_id": "2081025115",
+        "name": "FORT RAPTURE",
+        "description": "The Victis Crew finds themselves pinned down in Fort Rapture, a once hospitable and thriving safehaven for a post-outbreak community of survivors, now nothing more than abandoned and overrun ruins.",
+        "gamemode": [
+          "survival"
+        ]
+      },
+       {
+        "disabled": false,
+        "authors": [
+          "FLOWING"
+        ],
+        "level_id": "1353447668",
+        "name": "LITTLE BOY",
+        "description": "A zombie map based on the style of Nuketown zombie",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
       {
         "disabled": false,
         "authors": [
