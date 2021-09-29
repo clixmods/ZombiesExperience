@@ -3,6 +3,20 @@
     {
       "disabled": false,
       "authors": [
+        "Logical",
+        "Symbo"
+      ],
+      "level_id": "1897471689",
+      "name": "THANATOS",
+      "description": "An other-world being inhabits this forsaken forest... his name... Thanatos. Can our heroes survive Thanatos' wrath and put an end to his demise, or will they succumb to the evils from within his thousand-year soul...",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "Javix473"
       ],
       "level_id": "2555105932",
