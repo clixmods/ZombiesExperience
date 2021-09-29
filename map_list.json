@@ -3,6 +3,20 @@
         {
         "disabled": false,
         "authors": [
+          "ItsRllyTwitchyy"
+        ],
+        "level_id": "2550923221",
+        "name": "RANGE 23",
+        "description": "Survive in a tiny, close quarters training range with 6 perks, Mystery Box, and Pack a Punch.",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+        {
+        "disabled": false,
+        "authors": [
           "Ray",
           "lilrifa",
           "Kid Amogus"
