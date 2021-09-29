@@ -1,708 +1,775 @@
 {
-    "data": [
+  "data": [
+    {
+      "disabled": false,
+      "authors": [
+        "Javix473"
+      ],
+      "level_id": "2555105932",
+      "name": "DUNKELHEIT DER UNTOTEN",
+      "description": "You drove them deep into the heart of the Reich. You thought they were dead. You were wrong.",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Javix473"
+      ],
+      "level_id": "2555108802",
+      "name": "GESTORT",
+      "description": "Electroshock therapy. Chemically engineered beverages. Hordes of Undead Nazis. Find the power to unite and send them back to their graves!",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
       {
-        "disabled": false,
-        "authors": [
-          "NonSpecific"
-        ],
-        "level_id": "2613398867",
-        "name": "GASSE DER TOTEN",
-        "description": "Thinking they were safe, our four heroes found an abandoned alley to rest. They were wrong... can they escape in one piece, or will this be their final stand?",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ]
-      },
+      "disabled": false,
+      "authors": [
+        "ItsRllyTwitchyy"
+      ],
+      "level_id": "2550923221",
+      "name": "RANGE 23",
+      "description": "Survive in a tiny, close quarters training range with 6 perks, Mystery Box, and Pack a Punch.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
       {
-        "treyarch": "true",
-        "level_id": "zm_factory",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
+      "disabled": false,
+      "authors": [
+        "Ray",
+        "lilrifa",
+        "Kid Amogus"
+      ],
+      "level_id": "2081025115",
+      "name": "FORT RAPTURE",
+      "description": "The Victis Crew finds themselves pinned down in Fort Rapture, a once hospitable and thriving safehaven for a post-outbreak community of survivors, now nothing more than abandoned and overrun ruins.",
+      "gamemode": [
+        "survival"
+      ]
+    },
+     {
+      "disabled": false,
+      "authors": [
+        "FLOWING"
+      ],
+      "level_id": "1353447668",
+      "name": "LITTLE BOY",
+      "description": "A zombie map based on the style of Nuketown zombie",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "NonSpecific"
+      ],
+      "level_id": "2613398867",
+      "name": "GASSE DER TOTEN",
+      "description": "Thinking they were safe, our four heroes found an abandoned alley to rest. They were wrong... can they escape in one piece, or will this be their final stand?",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_factory",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "PSH",
+        "Abnormal2020",
+        "Scobalula",
+        "raptroes"
+      ],
+      "level_id": "1363534306",
+      "name": "CATACLYSM",
+      "description": "The Essex heavy industrial plant was conceived at the height of World War II. During which time it produced all means of weapons, from bullets to tanks. It's location next to the ocean made it critical to the supply and delivery of Allied armor. Not long after, the factory became abandoned for several decades. In the early 21th Century, the factory was repurposed as an all purpose shipping yard, but only after a few years was bought back by the Government and once again used as a hub to produce and ship weapons. The last report from Essex indicated a shipment might have exploded while at the compound. Communications with Essex have ceased after this Cataclysm.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ],
+      "complete": "false"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "gcpeinhardt"
+      ],
+      "level_id": "2064332663",
+      "name": "DER RIESE",
+      "description": "The Giant is rising. Face the might of the Nazi Zombies in their heartland. This is where it all began. This is where the master plan took shape. Is this where it all ends?",
+      "gamemode": [
+        "survival",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2598721994",
+      "name": "FELON",
+      "description": "Can you escape this prison haunted by the Warden and his disciples?",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "BADSNIPER96"
+      ],
+      "level_id": "844720012",
+      "name": "RETRIBUTION",
+      "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2585913323",
+      "name": "MARSH",
+      "description": "A desolate and wet swamp. Small homes are littered across the marsh. Find some gear and survive!",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2370179373",
+      "name": "KOWLOON",
+      "description": "Four of the world's best operatives link back up in a familiar place to learn the true origins of the Nova-6 Chemical and its true potential, but nothing is always as it seems.",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+      ,
+      "complete": "false"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Seth Norris"
+      ],
+      "level_id": "1617497358",
+      "name": "DAS HERRENHAUS",
+      "description": "In the last days of WW2 all communication with a strange Group 935 facility is lost. Reports speak of a boarding school ruled by a nazi officer, and identified member of the group 935, the doctor Hermann Schuster. With the war finished, the strange place was closed and abandoned. Nothing was heard of the students, professors, or even the doctor Schuster himself. A week later, somehow, some friendly faces landed inside the cursed building... The locals still remember that day, those screams, those lights...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2581784013",
+      "name": "ATROX",
+      "description": "An insane asylum abandoned years ago due to the horrors that took place in this facility.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
       {
-        "disabled": false,
-        "authors": [
-          "PSH",
-          "Abnormal2020",
-          "Scobalula",
-          "raptroes"
-        ],
-        "level_id": "1363534306",
-        "name": "CATACLYSM",
-        "description": "The Essex heavy industrial plant was conceived at the height of World War II. During which time it produced all means of weapons, from bullets to tanks. It's location next to the ocean made it critical to the supply and delivery of Allied armor. Not long after, the factory became abandoned for several decades. In the early 21th Century, the factory was repurposed as an all purpose shipping yard, but only after a few years was bought back by the Government and once again used as a hub to produce and ship weapons. The last report from Essex indicated a shipment might have exploded while at the compound. Communications with Essex have ceased after this Cataclysm.",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ],
-        "complete": "false"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "gcpeinhardt"
-        ],
-        "level_id": "2064332663",
-        "name": "DER RIESE",
-        "description": "The Giant is rising. Face the might of the Nazi Zombies in their heartland. This is where it all began. This is where the master plan took shape. Is this where it all ends?",
-        "gamemode": [
-          "survival",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "2598721994",
-        "name": "FELON",
-        "description": "Can you escape this prison haunted by the Warden and his disciples?",
-        "gamemode": [
-          "survival",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "BADSNIPER96"
-        ],
-        "level_id": "844720012",
-        "name": "RETRIBUTION",
-        "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "2585913323",
-        "name": "MARSH",
-        "description": "A desolate and wet swamp. Small homes are littered across the marsh. Find some gear and survive!",
-        "gamemode": [
-          "survival",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "2370179373",
-        "name": "KOWLOON",
-        "description": "Four of the world's best operatives link back up in a familiar place to learn the true origins of the Nova-6 Chemical and its true potential, but nothing is always as it seems.",
-        "gamemode": [
-          "survival",
-          "grief"
-        ]
-        ,
-        "complete": "false"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Seth Norris"
-        ],
-        "level_id": "1617497358",
-        "name": "DAS HERRENHAUS",
-        "description": "In the last days of WW2 all communication with a strange Group 935 facility is lost. Reports speak of a boarding school ruled by a nazi officer, and identified member of the group 935, the doctor Hermann Schuster. With the war finished, the strange place was closed and abandoned. Nothing was heard of the students, professors, or even the doctor Schuster himself. A week later, somehow, some friendly faces landed inside the cursed building... The locals still remember that day, those screams, those lights...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "2581784013",
-        "name": "ATROX",
-        "description": "An insane asylum abandoned years ago due to the horrors that took place in this facility.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-        {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "2575436141",
-        "name": "FLAKK",
-        "description": "WW1 Trench warfare in between two bunkers. How long can you survive for?",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Psh"
-        ],
-        "level_id": "2042494024",
-        "name": "VALLEY",
-        "description": "Somewhere near the Essex heavy industrial plant...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "My_ZipLock_Lover"
-        ],
-        "level_id": "2387245580",
-        "name": "HASHIKE",
-        "description": "In a world where a barge holds the deadliest secret imaginable, Spilling corpses and bodies into the depths below. The dead rise and begin an all out assault against a heavily fortified bunker. Set in a moist hellscape carved from long fought battles, Can you survive the undead trash? Or will you suffer to sink below the surface and meet your watery ends?",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "treyarch": "true",
-        "level_id": "zm_asylum",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Madgaz",
-          "Planet"
-        ],
-        "level_id": "1807713320",
-        "name": "ATONEMENT",
-        "description": "Our 4 heroes find themselves trapped in an old English mining town, what secrets have Group 935 been hiding here will this be their Atonement...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "complete": "false"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Scobalula"
-        ],
-        "level_id": "1891700770",
-        "name": "ZOMBIE GARAGE 2",
-        "description": "As the recent outbreak sweeps through the United States, killing all those around you, you and your team take shelter in a nearby Garge, but things aren't what they seem.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "brdg95"
-        ],
-        "level_id": "1829975208",
-        "name": "MAYBURY SURVIVAL",
-        "description": "Judgement Day has arrived, and the small neighborhood of Maybury is prepared. Fight for survival against the horde from the perspective of four of Maybury's locals in a residents backyard.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "brdg95"
-        ],
-        "level_id": "1491611559",
-        "name": "CONSTRUCTION NIGHT",
-        "description": "Four workers are trapped in a hellish nightmare surrounding a Construction site disturbing an old burial ground.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Deadshot.mp4"
-        ],
-        "level_id": "2228367176",
-        "name": "THE WINCHESTER",
-        "description": "Shaun of the Dead comes to zombies with this fanmade version of the iconic bar, the Winchester!",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Deadshot.mp4"
-        ],
-        "level_id": "2299337140",
-        "name": "THE DARK DESCENT",
-        "description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. You must escape.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "HUMANS",
-          "k7Ysh5A",
-          "GEEKiDoS"
-        ],
-        "level_id": "1109543627",
-        "name": "TRANSPORT SHIP",
-        "description": "Fight with Zombies on Transport ship from Crossfire!",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Ben-Verder-Niks"
-        ],
-        "level_id": "2194080791",
-        "name": "MW:DOCKS",
-        "description": "The undead have risen in Modern Warfare's Docks.",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "robit",
-          "raptroes"
-        ],
-        "level_id": "2272246143",
-        "name": "DAYBREAK",
-        "description": "Our heroes return to Diner in search of an ancient relic, but nothing is quite how they remember.",
-        "gamemode": [
-          "survival",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Filly"
-        ],
-        "level_id": "2574100565",
-        "name": "LONDON DOCKS",
-        "description": "After a truck carrying an unknown gas was struck by a vehicle and exploded at an abandoned dockyard just outside London, the nearby residents fleeing the scene began to succumb to its fatal effects. Along with the gas explosion also came the discovery of a dark and dangerous undead army laying beneath their beloved home. S.A.S Detachment Bravo's Hazmat team has been sent in to clean up any remaining threats and recover samples for further testing...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Javix473"
-        ],
-        "level_id": "1786476460",
-        "name": "NACHT DER AGONIE",
-        "description": "14 Th of may 1945, the group 935 is trying to scape from allies and in a last chance of preserving their secret weaponry and experiments they stablished a base near the Franco-Spanish border to supply all the resources to Spain before it falls to unwanted hands...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "jay"
-        ],
-        "level_id": "1171712833",
-        "name": "PORTSIDE",
-        "description": "Shortly after Elevation, the crew find themselves in an abandoned portside town. A cargo ship full of 115 is contaminating the city and infecting everybody in it. It is your job to destroy that ship and restore peace to the city.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "logical"
-        ],
-        "level_id": "1949841259",
-        "name": "ENDALEN",
-        "description": "A small clearing in a forest in Norway. Can you survive long enough to find and cook the delicious s'mores?",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Marksman147"
-        ],
-        "level_id": "914295605",
-        "name": "BLACKWOODS",
-        "description": "",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "ZeRoY",
-          "Ardivee",
-          "MakeCents"
-        ],
-        "level_id": "879782355",
-        "name": "KYASSURU",
-        "description": "Some time after leaving Der Eisendrache, Richtofen in his quest for harnessing the power of the realm lands the trio and himself on the ground of Kyassuru, an old Japanese Castle which was the theater of a great battle. They expect to find here Ultimis Takeo ...",
-        "gamemode": [
-          "survival",
-          "sharpshooter"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Clix"
-        ],
-        "level_id": "1406022761",
-        "name": "FARM",
-        "description": "Survive in the Farm with limited wall weapons, perks, and the Mystery Box.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Slayin",
-          "raptroes",
-          "NoobforLunch"
-        ],
-        "level_id": "1680193042",
-        "name": "TOWN",
-        "description": "Survive in the town with limited wall weapons, perks, Pack-a-Punch and the Mystery Box.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Hybs",
-          "raptroes"
-        ],
-        "level_id": "2567633314",
-        "name": "BIODOME",
-        "description": "Biodome is a location on Moon.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "DanWj"
-        ],
-        "level_id": "2553596961",
-        "name": "MOB OF THE DEAD: CELLBLOCK",
-        "description": "Cell Block is a location in Alcatraz Island.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "rami"
-        ],
-        "level_id": "2327925954",
-        "name": "CHRISTMAS RUST",
-        "description": "Dark and snowy holiday themed Rust. Beware of Santa.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ]
-      },
-      {
-        "disabled": true,
-        "authors": [
-          "booris"
-        ],
-        "level_id": "2336465541",
-        "name": "STILLE NACHT",
-        "description": "December, 1944. In the chilly forests near a West Berlin town, not all is calm and not all is bright.",
-        "gamemode": [
-          "survival",
-          "grief"
-        ]
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Xela"
-        ],
-        "level_id": "1866140702",
-        "name": "RETURN TO BUS DEPOT",
-        "description": "Return to the unnerving experience that is Bus Depot and uncover the secrets that lie within.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Zombie115201"
-        ],
-        "level_id": "2279537248",
-        "name": "DINER",
-        "description": "Survive in the North Highway Diner with classic perks, wall weapons and the Pack-a-Punch",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Xela"
-        ],
-        "level_id": "1624257987",
-        "name": "TOWN REIMAGINED",
-        "description": "Relive the unsettling experience of Town set years after the events of Tranzit.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-        ,
-        "complete": "false"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "h00dedsn1per177"
-        ],
-        "level_id": "2252854766",
-        "name": "ST ELIZABETH HAUPTSCHULE",
-        "description": "An abandoned school in Berlin, hidden beneath lies a 935 facility. In his attempts to tie up loose ends Richtofen returns in search of Dr Porter...",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "complete": "false"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "IZaRTaX",
-          "HitmanWere",
-          "Ardivee",
-          "ElTitoPricus",
-          "ZeRoY"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "880337570",
-        "name": "EXTINCT: THE LAST COMPOUND",
-        "description": "",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "MCDC101"
-        ],
-        "level_id": "1192258761",
-        "name": "OVERLOOK",
-        "description": "Remake of the map Overlook from Black Ops DS Zombies.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "MCDC101"
-        ],
-        "level_id": "840594001",
-        "name": "HOUSE",
-        "description": "Remake of the map House from Black Ops DS Zombies.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "MCDC101"
-        ],
-        "level_id": "847878420",
-        "name": "FACILITY",
-        "description": "Remake of the map Facility from Black Ops DS Zombies.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "MCDC101"
-        ],
-        "level_id": "871858012",
-        "name": "TEMPLE",
-        "description": "Remake of the map Temple from Black Ops DS Zombies.",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Madgaz"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:49:24.667Z",
-        "level_id": "1688246509",
-        "name": "OPERATION LOUCHER",
-        "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ],
-        "v": 0
-      },
-      {
-        "disabled": false,
-        "authors": [
-          "Xela"
-        ],
-        "_id": "6068726452cfdf2fec3cc17c",
-        "created_date": "2021-04-03T13:d49:24.667Z",
-        "level_id": "2404652864",
-        "name": "GULAG ZOMBIES",
-        "description": "Slaughter the undead in the brand new Gulag Zombies.",
-        "gamemode": [
-          "survival",
-          "grief",
-          "sharpshooter"
-        ],
-        "complete": "false"
-      },
-      {
-        "treyarch": "true",
-        "level_id": "zm_prototype",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "treyarch": "true",
-        "level_id": "zm_sumpf",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      },
-      {
-        "treyarch": "true",
-        "level_id": "zm_theater",
-        "gamemode": [
-          "survival",
-          "sharpshooter",
-          "grief"
-        ],
-        "isOfficial": "true"
-      }
-    ]
-  }
-  
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2575436141",
+      "name": "FLAKK",
+      "description": "WW1 Trench warfare in between two bunkers. How long can you survive for?",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Psh"
+      ],
+      "level_id": "2042494024",
+      "name": "VALLEY",
+      "description": "Somewhere near the Essex heavy industrial plant...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "My_ZipLock_Lover"
+      ],
+      "level_id": "2387245580",
+      "name": "HASHIKE",
+      "description": "In a world where a barge holds the deadliest secret imaginable, Spilling corpses and bodies into the depths below. The dead rise and begin an all out assault against a heavily fortified bunker. Set in a moist hellscape carved from long fought battles, Can you survive the undead trash? Or will you suffer to sink below the surface and meet your watery ends?",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_asylum",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Madgaz",
+        "Planet"
+      ],
+      "level_id": "1807713320",
+      "name": "ATONEMENT",
+      "description": "Our 4 heroes find themselves trapped in an old English mining town, what secrets have Group 935 been hiding here will this be their Atonement...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "complete": "false"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Scobalula"
+      ],
+      "level_id": "1891700770",
+      "name": "ZOMBIE GARAGE 2",
+      "description": "As the recent outbreak sweeps through the United States, killing all those around you, you and your team take shelter in a nearby Garge, but things aren't what they seem.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "brdg95"
+      ],
+      "level_id": "1829975208",
+      "name": "MAYBURY SURVIVAL",
+      "description": "Judgement Day has arrived, and the small neighborhood of Maybury is prepared. Fight for survival against the horde from the perspective of four of Maybury's locals in a residents backyard.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "brdg95"
+      ],
+      "level_id": "1491611559",
+      "name": "CONSTRUCTION NIGHT",
+      "description": "Four workers are trapped in a hellish nightmare surrounding a Construction site disturbing an old burial ground.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Deadshot.mp4"
+      ],
+      "level_id": "2228367176",
+      "name": "THE WINCHESTER",
+      "description": "Shaun of the Dead comes to zombies with this fanmade version of the iconic bar, the Winchester!",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Deadshot.mp4"
+      ],
+      "level_id": "2299337140",
+      "name": "THE DARK DESCENT",
+      "description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. You must escape.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "HUMANS",
+        "k7Ysh5A",
+        "GEEKiDoS"
+      ],
+      "level_id": "1109543627",
+      "name": "TRANSPORT SHIP",
+      "description": "Fight with Zombies on Transport ship from Crossfire!",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Ben-Verder-Niks"
+      ],
+      "level_id": "2194080791",
+      "name": "MW:DOCKS",
+      "description": "The undead have risen in Modern Warfare's Docks.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "robit",
+        "raptroes"
+      ],
+      "level_id": "2272246143",
+      "name": "DAYBREAK",
+      "description": "Our heroes return to Diner in search of an ancient relic, but nothing is quite how they remember.",
+      "gamemode": [
+        "survival",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Filly"
+      ],
+      "level_id": "2574100565",
+      "name": "LONDON DOCKS",
+      "description": "After a truck carrying an unknown gas was struck by a vehicle and exploded at an abandoned dockyard just outside London, the nearby residents fleeing the scene began to succumb to its fatal effects. Along with the gas explosion also came the discovery of a dark and dangerous undead army laying beneath their beloved home. S.A.S Detachment Bravo's Hazmat team has been sent in to clean up any remaining threats and recover samples for further testing...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Javix473"
+      ],
+      "level_id": "1786476460",
+      "name": "NACHT DER AGONIE",
+      "description": "14 Th of may 1945, the group 935 is trying to scape from allies and in a last chance of preserving their secret weaponry and experiments they stablished a base near the Franco-Spanish border to supply all the resources to Spain before it falls to unwanted hands...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "jay"
+      ],
+      "level_id": "1171712833",
+      "name": "PORTSIDE",
+      "description": "Shortly after Elevation, the crew find themselves in an abandoned portside town. A cargo ship full of 115 is contaminating the city and infecting everybody in it. It is your job to destroy that ship and restore peace to the city.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "1949841259",
+      "name": "ENDALEN",
+      "description": "A small clearing in a forest in Norway. Can you survive long enough to find and cook the delicious s'mores?",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Marksman147"
+      ],
+      "level_id": "914295605",
+      "name": "BLACKWOODS",
+      "description": "",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "ZeRoY",
+        "Ardivee",
+        "MakeCents"
+      ],
+      "level_id": "879782355",
+      "name": "KYASSURU",
+      "description": "Some time after leaving Der Eisendrache, Richtofen in his quest for harnessing the power of the realm lands the trio and himself on the ground of Kyassuru, an old Japanese Castle which was the theater of a great battle. They expect to find here Ultimis Takeo ...",
+      "gamemode": [
+        "survival",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Clix"
+      ],
+      "level_id": "1406022761",
+      "name": "FARM",
+      "description": "Survive in the Farm with limited wall weapons, perks, and the Mystery Box.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Slayin",
+        "raptroes",
+        "NoobforLunch"
+      ],
+      "level_id": "1680193042",
+      "name": "TOWN",
+      "description": "Survive in the town with limited wall weapons, perks, Pack-a-Punch and the Mystery Box.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Hybs",
+        "raptroes"
+      ],
+      "level_id": "2567633314",
+      "name": "BIODOME",
+      "description": "Biodome is a location on Moon.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "DanWj"
+      ],
+      "level_id": "2553596961",
+      "name": "MOB OF THE DEAD: CELLBLOCK",
+      "description": "Cell Block is a location in Alcatraz Island.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "rami"
+      ],
+      "level_id": "2327925954",
+      "name": "CHRISTMAS RUST",
+      "description": "Dark and snowy holiday themed Rust. Beware of Santa.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ]
+    },
+    {
+      "disabled": true,
+      "authors": [
+        "booris"
+      ],
+      "level_id": "2336465541",
+      "name": "STILLE NACHT",
+      "description": "December, 1944. In the chilly forests near a West Berlin town, not all is calm and not all is bright.",
+      "gamemode": [
+        "survival",
+        "grief"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Xela"
+      ],
+      "level_id": "1866140702",
+      "name": "RETURN TO BUS DEPOT",
+      "description": "Return to the unnerving experience that is Bus Depot and uncover the secrets that lie within.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Zombie115201"
+      ],
+      "level_id": "2279537248",
+      "name": "DINER",
+      "description": "Survive in the North Highway Diner with classic perks, wall weapons and the Pack-a-Punch",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Xela"
+      ],
+      "level_id": "1624257987",
+      "name": "TOWN REIMAGINED",
+      "description": "Relive the unsettling experience of Town set years after the events of Tranzit.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+      ,
+      "complete": "false"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "h00dedsn1per177"
+      ],
+      "level_id": "2252854766",
+      "name": "ST ELIZABETH HAUPTSCHULE",
+      "description": "An abandoned school in Berlin, hidden beneath lies a 935 facility. In his attempts to tie up loose ends Richtofen returns in search of Dr Porter...",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "complete": "false"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "IZaRTaX",
+        "HitmanWere",
+        "Ardivee",
+        "ElTitoPricus",
+        "ZeRoY"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "880337570",
+      "name": "EXTINCT: THE LAST COMPOUND",
+      "description": "",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "v": 0
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "level_id": "1192258761",
+      "name": "OVERLOOK",
+      "description": "Remake of the map Overlook from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "level_id": "840594001",
+      "name": "HOUSE",
+      "description": "Remake of the map House from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "level_id": "847878420",
+      "name": "FACILITY",
+      "description": "Remake of the map Facility from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "MCDC101"
+      ],
+      "level_id": "871858012",
+      "name": "TEMPLE",
+      "description": "Remake of the map Temple from Black Ops DS Zombies.",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Madgaz"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:49:24.667Z",
+      "level_id": "1688246509",
+      "name": "OPERATION LOUCHER",
+      "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ],
+      "v": 0
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Xela"
+      ],
+      "_id": "6068726452cfdf2fec3cc17c",
+      "created_date": "2021-04-03T13:d49:24.667Z",
+      "level_id": "2404652864",
+      "name": "GULAG ZOMBIES",
+      "description": "Slaughter the undead in the brand new Gulag Zombies.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ],
+      "complete": "false"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_prototype",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_sumpf",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    },
+    {
+      "treyarch": "true",
+      "level_id": "zm_theater",
+      "gamemode": [
+        "survival",
+        "sharpshooter",
+        "grief"
+      ],
+      "isOfficial": "true"
+    }
+  ]
+}
