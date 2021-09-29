@@ -1,6 +1,20 @@
 {
     "data": [
       {
+        "disabled": false,
+        "authors": [
+          "NonSpecific"
+        ],
+        "level_id": "2613398867",
+        "name": "GASSE DER TOTEN",
+        "description": "Thinking they were safe, our four heroes found an abandoned alley to rest. They were wrong... can they escape in one piece, or will this be their final stand?",
+        "gamemode": [
+          "survival",
+          "grief",
+          "sharpshooter"
+        ]
+      },
+      {
         "treyarch": "true",
         "level_id": "zm_factory",
         "gamemode": [
