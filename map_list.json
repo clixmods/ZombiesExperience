@@ -3,6 +3,36 @@
     {
       "disabled": false,
       "authors": [
+        "mindmirror",
+        "Symbo"
+      ],
+      "level_id": "1862775924",
+      "name": "OVERTURE",
+      "description": "February 3rd, 2000. Our heroes escaped Myanmar and after a year of travelling throughout the world, they find themselves in an abandoned research facility in the northwest of Greenland. They've received the signal to "Kill them. Kill them all.".",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "DannyCrew",
+        "ZombiegamingHD7"
+      ],
+      "level_id": "2565091359",
+      "name": "MOUNTAIN DEFENCE",
+      "description": "How fast can you complete the challenges,unlock the ending and escape.",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "dadakhr"
       ],
       "level_id": "1695245752",
