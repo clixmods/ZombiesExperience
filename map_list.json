@@ -3,6 +3,7 @@
     {
       "disabled": false,
       "authors": [
+<<<<<<< HEAD
         "eDeK X"
       ],
       "level_id": "1391030400",
@@ -17,6 +18,8 @@
     {
       "disabled": false,
       "authors": [
+=======
+>>>>>>> 62ccf9d8fd71c6b777cbd93a13ce2792d144445a
         "mindmirror",
         "Symbo"
       ],
