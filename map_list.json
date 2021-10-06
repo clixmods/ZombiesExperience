@@ -3,6 +3,20 @@
     {
       "disabled": false,
       "authors": [
+        "Ping"
+      ],
+      "level_id": "1826375884",
+      "name": "RADIOACTIVE",
+      "description": "A small secret nuclear power plant built in the Highlands of Scotland. Only 10 miles from the 'Der Keres' facility. A group of liquidators are sent to investigate the strange goings-on reported at the plant, but they could never have imagined what horrors lurk inside...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "Haxzerz"
       ],
       "level_id": "1137893244",
