@@ -3,6 +3,39 @@
     {
       "disabled": false,
       "authors": [
+        "Haxzerz"
+      ],
+      "level_id": "1137893244",
+      "name": "DAS STAHLLABOR",
+      "description": "Deep beneath the surface lies a high-tech underground laboratory, its primary function being researching devastatingly harmful experimental weaponry. A large portion of these research projects featured the ever lethal chemical known simply as, Nova 6. After an alleged accidental mass leak of said chemical the facility and its workers have been forced into demon-like proportions. In their quest of finding the elusive artifact they've been searching for, our four heroes boldly venture downwards into the unknowns, prepared to face the nightmare that lurks below...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "ZeRoY",
+        "therealwakka",
+        "Luna",
+        "Ardivee",
+        "ConvictioNDR",
+        "MakeCents"
+      ],
+      "level_id": "790397843",
+      "name": "ZOMBIE HALLOWEEN",
+      "description": "Dempsey Richtofen Nikolai & Takeo are entering the undead graveyard for Halloween you know its gonna be fun already",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "eDeK X"
       ],
       "level_id": "1391030400",
