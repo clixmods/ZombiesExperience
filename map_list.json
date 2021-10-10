@@ -968,6 +968,7 @@
     {
       "treyarch": "true",
       "level_id": "zm_prototype",
+      "lobbySizeMax":"8",
       "gamemode": [
         "survival",
         "sharpshooter",
@@ -978,6 +979,7 @@
     {
       "treyarch": "true",
       "level_id": "zm_sumpf",
+      "lobbySizeMax":"4",
       "gamemode": [
         "survival",
         "sharpshooter",
