@@ -3,9 +3,25 @@
     {
       "disabled": false,
       "authors": [
+        "mindmirror"
+      ],
+      "level_id": "1116742218",
+      "lobbySizeMax":"8",
+      "name": "OBSCURED",
+      "description": "What is that? Is that a dream or is it real? This cannot be real! Why would such a place exist and for what purpose? Find that out! An obscured complex full of zombies awaits you!",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "Ping"
       ],
       "level_id": "1826375884",
+      "lobbySizeMax":"8",
       "name": "RADIOACTIVE",
       "description": "A small secret nuclear power plant built in the Highlands of Scotland. Only 10 miles from the 'Der Keres' facility. A group of liquidators are sent to investigate the strange goings-on reported at the plant, but they could never have imagined what horrors lurk inside...",
       "gamemode": [
@@ -20,6 +36,7 @@
         "Haxzerz"
       ],
       "level_id": "1137893244",
+      "lobbySizeMax":"8",
       "name": "DAS STAHLLABOR",
       "description": "Deep beneath the surface lies a high-tech underground laboratory, its primary function being researching devastatingly harmful experimental weaponry. A large portion of these research projects featured the ever lethal chemical known simply as, Nova 6. After an alleged accidental mass leak of said chemical the facility and its workers have been forced into demon-like proportions. In their quest of finding the elusive artifact they've been searching for, our four heroes boldly venture downwards into the unknowns, prepared to face the nightmare that lurks below...",
       "gamemode": [
@@ -39,6 +56,7 @@
         "MakeCents"
       ],
       "level_id": "790397843",
+      "lobbySizeMax":"8",
       "name": "ZOMBIE HALLOWEEN",
       "description": "Dempsey Richtofen Nikolai & Takeo are entering the undead graveyard for Halloween you know its gonna be fun already",
       "gamemode": [
@@ -53,6 +71,7 @@
         "eDeK X"
       ],
       "level_id": "1391030400",
+      "lobbySizeMax":"8",
       "name": "CLOCKWISE",
       "description": "Are you able to find out what time it is?",
       "gamemode": [
@@ -68,6 +87,7 @@
         "Symbo"
       ],
       "level_id": "1862775924",
+      "lobbySizeMax":"8",
       "name": "OVERTURE",
       "description": "February 3rd, 2000. Our heroes escaped Myanmar and after a year of travelling throughout the world, they find themselves in an abandoned research facility in the northwest of Greenland. They've received the signal to Kill them. Kill them all.",
       "gamemode": [
@@ -83,6 +103,7 @@
         "ZombiegamingHD7"
       ],
       "level_id": "2565091359",
+      "lobbySizeMax":"8",
       "name": "MOUNTAIN DEFENCE",
       "description": "How fast can you complete the challenges,unlock the ending and escape.",
       "gamemode": [
@@ -97,6 +118,7 @@
         "dadakhr"
       ],
       "level_id": "1695245752",
+      "lobbySizeMax":"8",
       "name": "SHISHA NO TEIKOU",
       "description": "September 15, 1944, White Beach, Peleliu Island, Palau, South Pacific Mandate, Japans",
       "gamemode": [
@@ -113,6 +135,7 @@
         "Madgaz"
       ],
       "level_id": "823442228",
+      "lobbySizeMax":"8",
       "name": "BUNKER 10",
       "description": "Trapped inside the walls of an ever changing experimental bunker, will you escape the madness??",
       "gamemode": [
@@ -127,6 +150,7 @@
         "Cornrow Wallace"
       ],
       "level_id": "877119883",
+      "lobbySizeMax":"8",
       "name": "MEADOW",
       "description": "Meadow is the first of a 4 part series surrounding a UFO crash and the chain of events that lead to a war between earth and its invaders.",
       "gamemode": [
@@ -142,6 +166,7 @@
         "Symbo"
       ],
       "level_id": "1897471689",
+      "lobbySizeMax":"8",
       "name": "THANATOS",
       "description": "An other-world being inhabits this forsaken forest... his name... Thanatos. Can our heroes survive Thanatos' wrath and put an end to his demise, or will they succumb to the evils from within his thousand-year soul...",
       "gamemode": [
@@ -156,6 +181,7 @@
         "Javix473"
       ],
       "level_id": "2555105932",
+      "lobbySizeMax":"8",
       "name": "DUNKELHEIT DER UNTOTEN",
       "description": "You drove them deep into the heart of the Reich. You thought they were dead. You were wrong. ",
       "gamemode": [
@@ -169,6 +195,7 @@
         "Javix473"
       ],
       "level_id": "2555108802",
+      "lobbySizeMax":"8",
       "name": "GESTORT",
       "description": "Electroshock therapy. Chemically engineered beverages. Hordes of Undead Nazis. Find the power to unite and send them back to their graves!",
       "gamemode": [
@@ -182,6 +209,7 @@
         "ItsRllyTwitchyy"
       ],
       "level_id": "2550923221",
+      "lobbySizeMax":"8",
       "name": "RANGE 23",
       "description": "Survive in a tiny, close quarters training range with 6 perks, Mystery Box, and Pack a Punch.",
       "gamemode": [
@@ -198,6 +226,7 @@
         "Kid Amogus"
       ],
       "level_id": "2081025115",
+      "lobbySizeMax":"8",
       "name": "FORT RAPTURE",
       "description": "The Victis Crew finds themselves pinned down in Fort Rapture, a once hospitable and thriving safehaven for a post-outbreak community of survivors, now nothing more than abandoned and overrun ruins.",
       "gamemode": [
@@ -210,6 +239,7 @@
         "FLOWING"
       ],
       "level_id": "1353447668",
+      "lobbySizeMax":"8",
       "name": "LITTLE BOY",
       "description": "A zombie map based on the style of Nuketown zombie",
       "gamemode": [
@@ -224,6 +254,7 @@
         "NonSpecific"
       ],
       "level_id": "2613398867",
+      "lobbySizeMax":"8",
       "name": "GASSE DER TOTEN",
       "description": "Thinking they were safe, our four heroes found an abandoned alley to rest. They were wrong... can they escape in one piece, or will this be their final stand?",
       "gamemode": [
@@ -251,6 +282,7 @@
         "raptroes"
       ],
       "level_id": "1363534306",
+      "lobbySizeMax":"8",
       "name": "CATACLYSM",
       "description": "The Essex heavy industrial plant was conceived at the height of World War II. During which time it produced all means of weapons, from bullets to tanks. It's location next to the ocean made it critical to the supply and delivery of Allied armor. Not long after, the factory became abandoned for several decades. In the early 21th Century, the factory was repurposed as an all purpose shipping yard, but only after a few years was bought back by the Government and once again used as a hub to produce and ship weapons. The last report from Essex indicated a shipment might have exploded while at the compound. Communications with Essex have ceased after this Cataclysm.",
       "gamemode": [
@@ -266,6 +298,7 @@
         "gcpeinhardt"
       ],
       "level_id": "2064332663",
+      "lobbySizeMax":"8",
       "name": "DER RIESE",
       "description": "The Giant is rising. Face the might of the Nazi Zombies in their heartland. This is where it all began. This is where the master plan took shape. Is this where it all ends?",
       "gamemode": [
@@ -280,6 +313,7 @@
         "logical"
       ],
       "level_id": "2598721994",
+      "lobbySizeMax":"8",
       "name": "FELON",
       "description": "Can you escape this prison haunted by the Warden and his disciples?",
       "gamemode": [
@@ -293,6 +327,7 @@
         "BADSNIPER96"
       ],
       "level_id": "844720012",
+      "lobbySizeMax":"8",
       "name": "RETRIBUTION",
       "description": "A deserted sanctuary that was overrun by the undead. Find a way out of this nightmare...",
       "gamemode": [
@@ -307,6 +342,7 @@
         "logical"
       ],
       "level_id": "2585913323",
+      "lobbySizeMax":"8",
       "name": "MARSH",
       "description": "A desolate and wet swamp. Small homes are littered across the marsh. Find some gear and survive!",
       "gamemode": [
@@ -320,6 +356,7 @@
         "logical"
       ],
       "level_id": "2370179373",
+      "lobbySizeMax":"8",
       "name": "KOWLOON",
       "description": "Four of the world's best operatives link back up in a familiar place to learn the true origins of the Nova-6 Chemical and its true potential, but nothing is always as it seems.",
       "gamemode": [
@@ -335,6 +372,7 @@
         "Seth Norris"
       ],
       "level_id": "1617497358",
+      "lobbySizeMax":"8",
       "name": "DAS HERRENHAUS",
       "description": "In the last days of WW2 all communication with a strange Group 935 facility is lost. Reports speak of a boarding school ruled by a nazi officer, and identified member of the group 935, the doctor Hermann Schuster. With the war finished, the strange place was closed and abandoned. Nothing was heard of the students, professors, or even the doctor Schuster himself. A week later, somehow, some friendly faces landed inside the cursed building... The locals still remember that day, those screams, those lights...",
       "gamemode": [
@@ -349,6 +387,7 @@
         "logical"
       ],
       "level_id": "2581784013",
+      "lobbySizeMax":"8",
       "name": "ATROX",
       "description": "An insane asylum abandoned years ago due to the horrors that took place in this facility.",
       "gamemode": [
@@ -363,6 +402,7 @@
         "logical"
       ],
       "level_id": "2575436141",
+      "lobbySizeMax":"8",
       "name": "FLAKK",
       "description": "WW1 Trench warfare in between two bunkers. How long can you survive for?",
       "gamemode": [
@@ -377,6 +417,7 @@
         "Psh"
       ],
       "level_id": "2042494024",
+      "lobbySizeMax":"8",
       "name": "VALLEY",
       "description": "Somewhere near the Essex heavy industrial plant...",
       "gamemode": [
@@ -391,6 +432,7 @@
         "My_ZipLock_Lover"
       ],
       "level_id": "2387245580",
+      "lobbySizeMax":"8",
       "name": "HASHIKE",
       "description": "In a world where a barge holds the deadliest secret imaginable, Spilling corpses and bodies into the depths below. The dead rise and begin an all out assault against a heavily fortified bunker. Set in a moist hellscape carved from long fought battles, Can you survive the undead trash? Or will you suffer to sink below the surface and meet your watery ends?",
       "gamemode": [
@@ -416,6 +458,7 @@
         "Planet"
       ],
       "level_id": "1807713320",
+      "lobbySizeMax":"8",
       "name": "ATONEMENT",
       "description": "Our 4 heroes find themselves trapped in an old English mining town, what secrets have Group 935 been hiding here will this be their Atonement...",
       "gamemode": [
@@ -431,6 +474,7 @@
         "Scobalula"
       ],
       "level_id": "1891700770",
+      "lobbySizeMax":"8",
       "name": "ZOMBIE GARAGE 2",
       "description": "As the recent outbreak sweeps through the United States, killing all those around you, you and your team take shelter in a nearby Garge, but things aren't what they seem.",
       "gamemode": [
@@ -445,6 +489,7 @@
         "brdg95"
       ],
       "level_id": "1829975208",
+      "lobbySizeMax":"8",
       "name": "MAYBURY SURVIVAL",
       "description": "Judgement Day has arrived, and the small neighborhood of Maybury is prepared. Fight for survival against the horde from the perspective of four of Maybury's locals in a residents backyard.",
       "gamemode": [
@@ -459,6 +504,7 @@
         "brdg95"
       ],
       "level_id": "1491611559",
+      "lobbySizeMax":"8",
       "name": "CONSTRUCTION NIGHT",
       "description": "Four workers are trapped in a hellish nightmare surrounding a Construction site disturbing an old burial ground.",
       "gamemode": [
@@ -473,6 +519,7 @@
         "Deadshot.mp4"
       ],
       "level_id": "2228367176",
+      "lobbySizeMax":"8",
       "name": "THE WINCHESTER",
       "description": "Shaun of the Dead comes to zombies with this fanmade version of the iconic bar, the Winchester!",
       "gamemode": [
@@ -487,6 +534,7 @@
         "Deadshot.mp4"
       ],
       "level_id": "2299337140",
+      "lobbySizeMax":"8",
       "name": "THE DARK DESCENT",
       "description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. You must escape.",
       "gamemode": [
@@ -503,6 +551,7 @@
         "GEEKiDoS"
       ],
       "level_id": "1109543627",
+      "lobbySizeMax":"8",
       "name": "TRANSPORT SHIP",
       "description": "Fight with Zombies on Transport ship from Crossfire!",
       "gamemode": [
@@ -517,6 +566,7 @@
         "Ben-Verder-Niks"
       ],
       "level_id": "2194080791",
+      "lobbySizeMax":"8",
       "name": "MW:DOCKS",
       "description": "The undead have risen in Modern Warfare's Docks.",
       "gamemode": [
@@ -532,6 +582,7 @@
         "raptroes"
       ],
       "level_id": "2272246143",
+      "lobbySizeMax":"8",
       "name": "DAYBREAK",
       "description": "Our heroes return to Diner in search of an ancient relic, but nothing is quite how they remember.",
       "gamemode": [
@@ -546,6 +597,7 @@
         "Filly"
       ],
       "level_id": "2574100565",
+      "lobbySizeMax":"8",
       "name": "LONDON DOCKS",
       "description": "After a truck carrying an unknown gas was struck by a vehicle and exploded at an abandoned dockyard just outside London, the nearby residents fleeing the scene began to succumb to its fatal effects. Along with the gas explosion also came the discovery of a dark and dangerous undead army laying beneath their beloved home. S.A.S Detachment Bravo's Hazmat team has been sent in to clean up any remaining threats and recover samples for further testing...",
       "gamemode": [
@@ -560,6 +612,7 @@
         "Javix473"
       ],
       "level_id": "1786476460",
+      "lobbySizeMax":"8",
       "name": "NACHT DER AGONIE",
       "description": "14 Th of may 1945, the group 935 is trying to scape from allies and in a last chance of preserving their secret weaponry and experiments they stablished a base near the Franco-Spanish border to supply all the resources to Spain before it falls to unwanted hands...",
       "gamemode": [
@@ -574,6 +627,7 @@
         "jay"
       ],
       "level_id": "1171712833",
+      "lobbySizeMax":"8",
       "name": "PORTSIDE",
       "description": "Shortly after Elevation, the crew find themselves in an abandoned portside town. A cargo ship full of 115 is contaminating the city and infecting everybody in it. It is your job to destroy that ship and restore peace to the city.",
       "gamemode": [
@@ -588,6 +642,7 @@
         "logical"
       ],
       "level_id": "1949841259",
+      "lobbySizeMax":"8",
       "name": "ENDALEN",
       "description": "A small clearing in a forest in Norway. Can you survive long enough to find and cook the delicious s'mores?",
       "gamemode": [
@@ -602,6 +657,7 @@
         "Marksman147"
       ],
       "level_id": "914295605",
+      "lobbySizeMax":"8",
       "name": "BLACKWOODS",
       "description": "",
       "gamemode": [
@@ -618,6 +674,7 @@
         "MakeCents"
       ],
       "level_id": "879782355",
+      "lobbySizeMax":"8",
       "name": "KYASSURU",
       "description": "Some time after leaving Der Eisendrache, Richtofen in his quest for harnessing the power of the realm lands the trio and himself on the ground of Kyassuru, an old Japanese Castle which was the theater of a great battle. They expect to find here Ultimis Takeo ...",
       "gamemode": [
@@ -631,6 +688,7 @@
         "Clix"
       ],
       "level_id": "1406022761",
+      "lobbySizeMax":"8",
       "name": "FARM",
       "description": "Survive in the Farm with limited wall weapons, perks, and the Mystery Box.",
       "gamemode": [
@@ -648,6 +706,7 @@
         "NoobforLunch"
       ],
       "level_id": "1680193042",
+      "lobbySizeMax":"8",
       "name": "TOWN",
       "description": "Survive in the town with limited wall weapons, perks, Pack-a-Punch and the Mystery Box.",
       "gamemode": [
@@ -664,6 +723,7 @@
         "raptroes"
       ],
       "level_id": "2567633314",
+      "lobbySizeMax":"8",
       "name": "BIODOME",
       "description": "Biodome is a location on Moon.",
       "gamemode": [
@@ -678,6 +738,7 @@
         "DanWj"
       ],
       "level_id": "2553596961",
+      "lobbySizeMax":"8",
       "name": "MOB OF THE DEAD: CELLBLOCK",
       "description": "Cell Block is a location in Alcatraz Island.",
       "gamemode": [
@@ -693,6 +754,7 @@
         "rami"
       ],
       "level_id": "2327925954",
+      "lobbySizeMax":"8",
       "name": "CHRISTMAS RUST",
       "description": "Dark and snowy holiday themed Rust. Beware of Santa.",
       "gamemode": [
@@ -707,6 +769,7 @@
         "booris"
       ],
       "level_id": "2336465541",
+      "lobbySizeMax":"8",
       "name": "STILLE NACHT",
       "description": "December, 1944. In the chilly forests near a West Berlin town, not all is calm and not all is bright.",
       "gamemode": [
@@ -720,6 +783,7 @@
         "Xela"
       ],
       "level_id": "1866140702",
+      "lobbySizeMax":"8",
       "name": "RETURN TO BUS DEPOT",
       "description": "Return to the unnerving experience that is Bus Depot and uncover the secrets that lie within.",
       "gamemode": [
@@ -735,6 +799,7 @@
         "Zombie115201"
       ],
       "level_id": "2279537248",
+      "lobbySizeMax":"8",
       "name": "DINER",
       "description": "Survive in the North Highway Diner with classic perks, wall weapons and the Pack-a-Punch",
       "gamemode": [
@@ -750,6 +815,7 @@
         "Xela"
       ],
       "level_id": "1624257987",
+      "lobbySizeMax":"8",
       "name": "TOWN REIMAGINED",
       "description": "Relive the unsettling experience of Town set years after the events of Tranzit.",
       "gamemode": [
@@ -767,6 +833,7 @@
         "h00dedsn1per177"
       ],
       "level_id": "2252854766",
+      "lobbySizeMax":"8",
       "name": "ST ELIZABETH HAUPTSCHULE",
       "description": "An abandoned school in Berlin, hidden beneath lies a 935 facility. In his attempts to tie up loose ends Richtofen returns in search of Dr Porter...",
       "gamemode": [
@@ -788,6 +855,7 @@
       "_id": "6068726452cfdf2fec3cc17c",
       "created_date": "2021-04-03T13:49:24.667Z",
       "level_id": "880337570",
+      "lobbySizeMax":"8",
       "name": "EXTINCT: THE LAST COMPOUND",
       "description": "",
       "gamemode": [
@@ -803,6 +871,7 @@
         "MCDC101"
       ],
       "level_id": "1192258761",
+      "lobbySizeMax":"8",
       "name": "OVERLOOK",
       "description": "Remake of the map Overlook from Black Ops DS Zombies.",
       "gamemode": [
@@ -818,6 +887,7 @@
         "MCDC101"
       ],
       "level_id": "840594001",
+      "lobbySizeMax":"8",
       "name": "HOUSE",
       "description": "Remake of the map House from Black Ops DS Zombies.",
       "gamemode": [
@@ -833,6 +903,7 @@
         "MCDC101"
       ],
       "level_id": "847878420",
+      "lobbySizeMax":"8",
       "name": "FACILITY",
       "description": "Remake of the map Facility from Black Ops DS Zombies.",
       "gamemode": [
@@ -848,6 +919,7 @@
         "MCDC101"
       ],
       "level_id": "871858012",
+      "lobbySizeMax":"8",
       "name": "TEMPLE",
       "description": "Remake of the map Temple from Black Ops DS Zombies.",
       "gamemode": [
@@ -865,6 +937,7 @@
       "_id": "6068726452cfdf2fec3cc17c",
       "created_date": "2021-04-03T13:49:24.667Z",
       "level_id": "1688246509",
+      "lobbySizeMax":"8",
       "name": "OPERATION LOUCHER",
       "description": "The last of the bombs have dropped, you are stranded, this small operations bunker is your only salvation... will you escape or suffer the same fate as those before you ?",
       "gamemode": [
@@ -882,6 +955,7 @@
       "_id": "6068726452cfdf2fec3cc17c",
       "created_date": "2021-04-03T13:d49:24.667Z",
       "level_id": "2404652864",
+      "lobbySizeMax":"8",
       "name": "GULAG ZOMBIES",
       "description": "Slaughter the undead in the brand new Gulag Zombies.",
       "gamemode": [
