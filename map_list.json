@@ -3,20 +3,6 @@
     {
       "disabled": false,
       "authors": [
-        "eMoX"
-      ],
-      "level_id": "2578591666",
-      "lobbySizeMax":"4",
-      "name": "LAST MAN STANDING: COSMODROME",
-      "mapLocation": "LAST MAN STANDING S3-EP.4",
-      "description": "The concept is 2-4 players, one player in each area and the last standing win!",
-      "gamemode": [
-        "map"
-      ]
-    },
-    {
-      "disabled": false,
-      "authors": [
         "mindmirror"
       ],
       "level_id": "1116742218",
@@ -1011,6 +997,188 @@
         "grief"
       ],
       "isOfficial": "true"
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2578591666",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: COSMODROME",
+      "mapLocation": "LAST MAN STANDING S3-EP.4",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2572394903",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: TRENCHES",
+      "mapLocation": "LAST MAN STANDING S3-EP.3",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2566123227",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: PRISON",
+      "mapLocation": "LAST MAN STANDING S3-EP.2",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2559864224",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: BUNKER",
+      "mapLocation": "LAST MAN STANDING S3-EP.1",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2236356946",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: FINAL",
+      "mapLocation": "LAST MAN STANDING S2-EP.9",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2216847976",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E8",
+      "mapLocation": "LAST MAN STANDING S2-EP.8",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2196469733",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E7",
+      "mapLocation": "LAST MAN STANDING S2-EP.7",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2180867166",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E6",
+      "mapLocation": "LAST MAN STANDING S2-EP.6",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2173674371",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E5",
+      "mapLocation": "LAST MAN STANDING S2-EP.5",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2151183897",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E4",
+      "mapLocation": "LAST MAN STANDING S2-EP.4",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2139784541",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E3",
+      "mapLocation": "LAST MAN STANDING S2-EP.3",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2132452661",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E2",
+      "mapLocation": "LAST MAN STANDING S2-EP.2",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "eMoX"
+      ],
+      "level_id": "2117978100",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: S2 E1",
+      "mapLocation": "LAST MAN STANDING S2-EP.1",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win! \n WARNING: BOTS ARE NOT COMPATIBLE WITH THE MOD",
+      "gamemode": [
+        "map"
+      ]
     }
   ]
 }
