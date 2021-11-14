@@ -3,6 +3,20 @@
     {
       "disabled": false,
       "authors": [
+        "eMoX"
+      ],
+      "level_id": "2578591666",
+      "lobbySizeMax":"4",
+      "name": "LAST MAN STANDING: COSMODROME",
+      "mapLocation": "LAST MAN STANDING S3-EP.4",
+      "description": "The concept is 2-4 players, one player in each area and the last standing win!",
+      "gamemode": [
+        "map"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "mindmirror"
       ],
       "level_id": "1116742218",
