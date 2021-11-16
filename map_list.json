@@ -23,6 +23,7 @@
       "level_id": "1826375884",
       "lobbySizeMax":"8",
       "name": "RADIOACTIVE",
+      "mapLocation": "Highlands of Scotland, Secret area",
       "description": "A small secret nuclear power plant built in the Highlands of Scotland. Only 10 miles from the 'Der Keres' facility. A group of liquidators are sent to investigate the strange goings-on reported at the plant, but they could never have imagined what horrors lurk inside...",
       "gamemode": [
         "survival",
@@ -121,6 +122,7 @@
       "level_id": "1695245752",
       "lobbySizeMax":"8",
       "name": "SHISHA NO TEIKOU",
+      "mapLocation": "White Beach, Peleliu Island",
       "description": "September 15, 1944, White Beach, Peleliu Island, Palau, South Pacific Mandate, Japans",
       "gamemode": [
         "survival",
@@ -242,6 +244,7 @@
       "level_id": "1353447668",
       "lobbySizeMax":"8",
       "name": "LITTLE BOY",
+      "mapLocation": "Nevada, USA",
       "description": "A zombie map based on the style of Nuketown zombie",
       "gamemode": [
         "survival",
@@ -946,7 +949,7 @@
         "grief",
         "sharpshooter"
       ],
-      "v": 0
+      "complete": "false"
     },
     {
       "disabled": false,
