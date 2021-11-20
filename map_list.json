@@ -3,6 +3,23 @@
     {
       "disabled": false,
       "authors": [
+        "steviewonder87",
+        "Juan"
+      ],
+      "level_id": "1965644944",
+      "lobbySizeMax":"8",
+      "name": "AREA 51",
+      "mapLocation": "1980, Nevada",
+      "description": "A top secret US military facility in the Nevada desert, long rumoured to hold government secrets on UFOs and extraterrestrials and experiments with the mysterious element 115...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "mindmirror"
       ],
       "level_id": "1116742218",
