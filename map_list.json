@@ -3,11 +3,48 @@
     {
       "disabled": false,
       "authors": [
+        "Juan"
+      ],
+      "level_id": "2245062170",
+      "lobbySizeMax":"8",
+      "name": "BLOCKADE",
+      "attachments":"true",
+      "Note":"",
+      "mapLocation": "Unknown location",
+      "description": "Four soldiers find themselves trapped in an eternal struggle in an remote town. With no apparent exit, they decide to turn on the mysterious voice that's been guiding them...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "logical"
+      ],
+      "level_id": "2624917648",
+      "lobbySizeMax":"8",
+      "name": "BLAST",
+      "attachments":"true",
+      "Note":"HUD for 8 players missing, hud for sharp missing",
+      "mapLocation": "Rocket Launch Research Facility",
+      "description": "Rocket Launch Research Facility. There seems to be a mysterious AI that runs the place...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "steviewonder87"
       ],
       "level_id": "1777318715",
       "lobbySizeMax":"8",
       "name": "FRIGID",
+      "attachments":"true",
       "mapLocation": "1971, Arctic Circle, Die Kalte Facility",
       "description": "A secret Group 935 base located in the Arctic region. Many years after the war, as part of Operation Paperclip, the US discovered intel on the top secret base and decided to continue the research and expand the base with the help of their new Nazi allies. Who knows what mysteries lay beneath the ice...",
       "gamemode": [
