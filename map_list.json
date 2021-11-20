@@ -3,11 +3,28 @@
     {
       "disabled": false,
       "authors": [
+        "steviewonder87"
+      ],
+      "level_id": "1777318715",
+      "lobbySizeMax":"8",
+      "name": "FRIGID",
+      "mapLocation": "1971, Arctic Circle, Die Kalte Facility",
+      "description": "A secret Group 935 base located in the Arctic region. Many years after the war, as part of Operation Paperclip, the US discovered intel on the top secret base and decided to continue the research and expand the base with the help of their new Nazi allies. Who knows what mysteries lay beneath the ice...",
+      "gamemode": [
+        "survival",
+        "grief",
+        "sharpshooter"
+      ]
+    },
+    {
+      "disabled": false,
+      "authors": [
         "steviewonder87",
         "Juan"
       ],
       "level_id": "1965644944",
       "lobbySizeMax":"8",
+      "attachments":"true",
       "name": "AREA 51",
       "mapLocation": "1980, Nevada",
       "description": "A top secret US military facility in the Nevada desert, long rumoured to hold government secrets on UFOs and extraterrestrials and experiments with the mysterious element 115...",
