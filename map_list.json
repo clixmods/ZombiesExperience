@@ -1253,6 +1253,20 @@
       "gamemode": [
         "map"
       ]
+    },
+    {
+      "disabled": false,
+      "authors": [
+        "Clix"
+      ],
+      "level_id": "2180904327",
+      "lobbySizeMax":"8",
+      "name": "NUKETOWN ZOMBIES",
+      "mapLocation": "Nevada, USA",
+      "description": "Mass-energy equivalence, secret tests, crash-landing perks. Survive in the iconic Nuketown, where the past and the future come together.",
+      "gamemode": [
+        "map"
+      ]
     }
   ]
 }
